@@ -18,6 +18,14 @@
     "isRelatedTo": {
       "@id": "http://semanticscience.org/resource/SIO_000001",
       "@type": "@id"
+    },
+    "uniprot": {
+      "@id": "http://identifiers.org/uniprot/",
+      "@type": "@id"
+    },
+    "ncbigene": {
+      "@id": "http://identifiers.org/ncbigene/",
+      "@type": "@id"
     }
   }
 ]
