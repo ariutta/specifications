@@ -1,0 +1,12 @@
+{
+  "@context": "http://bioschemas.org/contexts/protein.jsonld",
+  "@type": ["BioChemEntity", "Protein"],  
+  "alternateName": ["ABL", "JTK7"],
+  "description": "Non-receptor tyrosine-protein kinase that plays a role...",
+  "name": "ABL1",
+  "transcribedFrom": {
+    "@type": ["BioChemEntity", "Gene"],
+    "name": "ABL1"
+  },
+  "isRelatedTo": "http://pfam.xfam.org/clan/CL0001"  
+}
