@@ -13,7 +13,7 @@
     },
     "associatedDisease": {
       "@id": "http://semanticscience.org/resource/SIO_000983",
-      "#type": "@id"        
+      "@type": "@id"        
     },
     "isRelatedTo": {
       "@id": "http://semanticscience.org/resource/SIO_000001",
