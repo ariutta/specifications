@@ -1,0 +1,48 @@
+{
+  "@context": {
+    "URL": {
+      "@id": "@id",
+      "@type": "@id"
+    },
+    "Type": {
+      "@id": "@type",
+      "@type": "@id"
+    },
+    "TextLabel": {
+      "@id": "http://schema.org/name",
+      "@type": "@id"
+    },
+    "AlsoKnownAs": {
+      "@id": "http://schema.org/alternateName",
+      "@type": "@id"
+    },
+    "MoreDetails": {
+      "@id": "http://schema.org/description",
+      "@type": "@id"
+    },
+    "ComesFromGene": {
+      "@id": "http://semanticscience.org/resource/SIO_010081",
+      "@type": "@id"
+    },
+    "SeeRelated": {
+      "@id": "http://semanticscience.org/resource/SIO_000001",
+      "@type": "@id"
+    },
+    "http://www.uniprot.org/uniprot/": {
+      "@id": "http://identifiers.org/uniprot/",
+      "@type": "@id"
+    },
+    "http://www.ncbi.nlm.nih.gov/gene/": {
+      "@id": "http://identifiers.org/ncbigene/",
+      "@type": "@id"
+    },
+    "EnzymeProtein": "http://purl.obolibrary.org/obo/PR_000000001"
+  },
+  "Type": "EnzymeProtein",  
+  "TextLabel": "ABL1",
+  "AlsoKnownAs": ["ABL", "JTK7"],
+  "MoreDetails": "Non-receptor tyrosine-protein kinase that plays a role...",
+  "ComesFromGene": "http://www.ncbi.nlm.nih.gov/gene/25",
+  "SeeRelated": "http://pfam.xfam.org/clan/CL0001",
+	"URL": "http://www.uniprot.org/uniprot/P00519"
+}
