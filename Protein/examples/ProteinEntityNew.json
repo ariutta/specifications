@@ -1,11 +1,13 @@
 {
   "@context": "http://bioschemas.org/context.jsonld",
-  "@type": ["BioChemEntity", "Protein"],  
+  "@type": ["BioChemEntity", "Protein"],
+  "@id": "uniprot:P00519",
+  "name": "ABL1",
   "alternateName": ["ABL", "JTK7"],
   "description": "Non-receptor tyrosine-protein kinase that plays a role...",
-  "name": "ABL1",
   "transcribedFrom": {
     "@type": ["BioChemEntity", "Gene"],
+    "@id": "ncbigene:25",
     "name": "ABL1"
   },
   "isRelatedTo": "http://pfam.xfam.org/clan/CL0001"  
