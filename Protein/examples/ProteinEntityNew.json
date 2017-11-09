@@ -1,5 +1,5 @@
 {
-  "@context": "http://bioschemas.org/contexts/protein.jsonld",
+  "@context": "http://bioschemas.org/context.jsonld",
   "@type": ["BioChemEntity", "Protein"],  
   "alternateName": ["ABL", "JTK7"],
   "description": "Non-receptor tyrosine-protein kinase that plays a role...",
