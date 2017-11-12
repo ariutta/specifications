@@ -26,6 +26,22 @@
     "ncbigene": {
       "@id": "http://identifiers.org/ncbigene/",
       "@type": "@id"
+    },
+    "ensembl": {
+      "@id": "http://identifiers.org/ensembl/",
+      "@type": "@id"
+    },
+    "pw": {
+      "@id": "http://identifiers.org/pw/",
+      "@type": "@id"
+    },
+    "pubmed": {
+      "@id": "http://identifiers.org/pubmed/",
+      "@type": "@id"
+    },
+    "wikipathways": {
+      "@id": "http://identifiers.org/wikipathways/",
+      "@type": "@id"
     }
   }
 ]
