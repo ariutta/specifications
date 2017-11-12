@@ -1,6 +1,14 @@
 [    
   "http://schema.org",
   {
+    "id": {
+      "@id": "@id",
+      "@type": "@id"
+    },
+    "type": {
+      "@id": "@type",
+      "@type": "@id"
+    },
     "Gene": {
       "@id": "http://purl.obolibrary.org/obo/SO_0000704"
     },
