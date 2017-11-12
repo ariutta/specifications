@@ -1,5 +1,5 @@
 [    
-  "http://schema.org/",
+  "https://schema.org/",
   {
     "id": {
       "@id": "@id",
